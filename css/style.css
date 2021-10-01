@@ -1,4 +1,6 @@
-
+h1{
+    font-family: 'Courgette', cursive;
+}
 
 .bgGradient{
     background: #2980B9;  /* fallback for old browsers */
